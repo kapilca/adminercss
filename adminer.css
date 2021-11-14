@@ -1,0 +1,9 @@
+body, .footer > div {
+    background-color: #e7e2e7;
+}
+.footer{
+    border-top: 20px solid rgba(148, 142, 142, 0.925);
+}
+#logins a, #tables a, #tables span {
+    background: none !important;
+}
