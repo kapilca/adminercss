@@ -1,0 +1,2 @@
+# adminercss
+Customized adminer css
