@@ -7,3 +7,6 @@ body, .footer > div {
 #logins a, #tables a, #tables span {
     background: none !important;
 }
+a:link:hover{
+    color:black;
+}

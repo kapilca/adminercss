@@ -1,1 +1,4 @@
-# h1 Customized Adminer CSS
+# Customized Adminer CSS
+- Not too bright
+- Simple display
+- Minimalist
